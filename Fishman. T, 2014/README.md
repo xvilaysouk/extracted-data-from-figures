@@ -5,3 +5,7 @@ Fishman, Tomer, Heinz Schandl, Hiroki Tanikawa, Paul Walker, and Fridolin Krausm
 * Page: 46
 * Figure Number: Figure 8
 * Name: Material stocks per person in the United States and Japan, 1930–2050 
+
+# Download data: 
+[Material stocks per person in the United States] (Fishman. T, 2014/Stock per cap in US)
+[Material stocks per person in Japan] (Fishman. T, 2014/Stock per cap in Japan)
